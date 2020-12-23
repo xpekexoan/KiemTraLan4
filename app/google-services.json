@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800529268472",
+    "project_id": "kiemtranguyenvantri",
+    "storage_bucket": "kiemtranguyenvantri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800529268472:android:92f37ceef87df07feec50d",
+        "android_client_info": {
+          "package_name": "com.example.nguyenvantri_kiemtra4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800529268472-ona9otll06ccmc0su13bdkf2ulmsb3mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA2wy6Mx49-rSH-cUFxcCVpNnSjQTUCpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800529268472-ona9otll06ccmc0su13bdkf2ulmsb3mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
